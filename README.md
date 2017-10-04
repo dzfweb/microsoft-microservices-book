@@ -1,3 +1,6 @@
+## Download .MOBI / .EPUB 
+[https://www.gitbook.com/book/dzfweb/microsoft-microservices-book/details](https://www.gitbook.com/book/dzfweb/microsoft-microservices-book/details)
+
 ---
 title: .NET Microservices. Architecture for Containerized .NET Applications
 description: .NET Microservices Architecture for Containerized .NET Applications | Front Matter
